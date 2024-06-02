@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Leetcode Stats](https://leetcode.com/u/Sw24sX/)](https://leetcode.com/u/Sw24sX/)
+[![Leetcode Stats](https://leetcard.sw24sx/Sw24sX)](https://leetcode.com/Sw24sX)
 <!--
 **Sw24sX/Sw24sX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
