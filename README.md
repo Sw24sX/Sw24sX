@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### first
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
+### second
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 <!--
 **Sw24sX/Sw24sX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
