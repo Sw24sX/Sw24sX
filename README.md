@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Leetcode Stats](https://leetcard.sw24sx/Sw24sX)](https://leetcode.com/Sw24sX)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sw24sX?theme=light&font=Flavors)](https://leetcode.com/Sw24sX)
 <!--
 **Sw24sX/Sw24sX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
